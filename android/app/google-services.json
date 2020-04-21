@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "493471308829",
+    "firebase_url": "https://login-firebase-f61d0.firebaseio.com",
+    "project_id": "login-firebase-f61d0",
+    "storage_bucket": "login-firebase-f61d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493471308829:android:138c1b13fcba1e9cd0baf4",
+        "android_client_info": {
+          "package_name": "com.kanaisteve.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493471308829-lgj5l9cmoblr7306e9amahvvsvdprcqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv7J-ZTN_dxiFr-vTfHEG0pzAARChh_aM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493471308829-lgj5l9cmoblr7306e9amahvvsvdprcqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
